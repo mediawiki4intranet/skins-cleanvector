@@ -1,0 +1,5 @@
+.skin-cleanvector #mw-panel, .skin-cleanvector #footer,
+.skin-cleanvector #p-personal, .skin-cleanvector #left-navigation,
+.skin-cleanvector #right-navigation { display: none; }
+.skin-cleanvector .mw-body { margin-left: 0; }
+.skin-cleanvector #mw-head-base, .skin-cleanvector #mw-page-base { margin: 0; height: 0; }

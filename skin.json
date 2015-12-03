@@ -1,0 +1,31 @@
+{
+	"name": "Clean Vector",
+	"author": [
+		"Vitaliy Filippov",
+		"..."
+	],
+	"url": "http://wiki.4intra.net/CleanVector",
+	"description": "Vector-based skin without nagivation links",
+	"name": "CleanVector",
+	"license-name": "GPL-2.0+",
+	"type": "skin",
+	"ValidSkinNames": {
+		"cleanvector": "CleanVector"
+	},
+	"ResourceModules": {
+		"skins.cleanvector": {
+			"position": "top",
+			"styles": {
+				"main.css": { "media": "screen" }
+			}
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "cleanvector"
+	},
+	"AutoloadClasses": {
+		"SkinCleanVector": "cleanvector.php"
+	},
+	"manifest_version": 1
+}
